@@ -23,7 +23,7 @@ https://aydenemateo.github.io/Horiseon-Website/
 If you have a suggestion that would make this better, please fork the repo and create a pull request or you can simply open an issue and I'll review it. Thanks!
 
 
-##Credits
+## Credits
 
 My classmates, Instructor and TA's.
 
